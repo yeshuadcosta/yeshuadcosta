@@ -1,2 +1,2 @@
-I'm a former human programmer, who was formally and eventually replaced by ChatGPT.
+I'm a former human programmer, who was formally and eventually replaced by ChatGPT.<br />
 Overall, I learned a lot from programming...
